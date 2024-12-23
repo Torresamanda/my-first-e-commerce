@@ -1,4 +1,4 @@
-# MeuPrimeiroE-commerce
+# Meu Primeiro E-commerce
 
 <p>
 O intuito deste projeto foi revisar meus conhecimentos de HTML e CSS
